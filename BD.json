@@ -1,17 +1,13 @@
 [
   {
     "id": "0",
-    "title": "Gears",
-    "subTitle": "closest planet to the sun",
-    "Distance": "91 Mi (Km)",
+    "title": "Dark Souls",
+    "subTitle": "Valor: R$ 105,50",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/44/mercury-6153848_960_720.png"
+      "uri": "https://image.api.playstation.com/cdn/UP0700/CUSA08692_00/JxilRmpXkS3CCXUnr0gZTBOlqso3plaw.png"
     },
-    "Graviti":"4",
-    "Tmp":"164°",
-    "Tipo": "Planet",
-    "Descripition":"Mercúrio é o planeta mais próximo do Sol. Mercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta."
-  },
+    "Tipo": "RPG",
+    "Descripition":"Dark Souls é uma série de RPGs de ação criados por Hidetaka Miyazaki da FromSoftware e publicados pela Bandai Namco Entertainment . A série começou com o lançamento de Dark Souls (2011) e teve duas sequências, Dark Souls II (2014) e Dark Souls III (2016). Dark Souls tem recebido aclamação da crítica, sendo o primeiro título frequentemente citado como um dos maiores em videogames , com a série como um todo sendo tanto elogiada quanto criticada por seu alto nível de dificuldade .},
   {
     "id": "1",
     "title": "Venus",
