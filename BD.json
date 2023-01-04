@@ -53,55 +53,55 @@
   },
   {
     "id": "4",
-    "title": "Jupiter",
-    "subTitle": "jewel of the Solar System",
+    "title": "Cyberpunk 2077",
+    "subTitle": "Valor: R$ 184,99",
     "Distance": "628 Mi (KM)",
     "image": {
-      "uri": "https://www.pngall.com/wp-content/uploads/7/Jupiter-PNG-Picture.png"
+      "uri": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
     },
     "Gravity":"25",
     "Tmp": "-110°",
-    "Tipo": "Planet",
+    "Tipo": "Ação e Aventura",
     "Descripition":"Júpiter é considerado o maior planeta do Sistema Solar, sendo rodeado de vários satélites naturais. É o quinto na ordem dos planetas tendo-se o Sol como a referência. Júpiter é o maior planeta do Sistema Solar, estando situado entre Marte e Saturno."
   },
   {
     "id": "5",
-    "title": "Saturn",
-    "subTitle": "Red Planet",
+    "title": "Call of Duty: Warzone",
+    "subTitle": "Valor: Gratuito",
     "Distance": "1.279 Mi (KM)",
     "image": {
-      "uri": "https://github.com/Jpedro23/photo/blob/main/Planeta-saturno-Png-1024x1024_1_-removebg-preview.png?raw=true"
+      "uri": "https://www.callofduty.com/content/dam/atvi/infinityward/iw-touchui/news/feature/2022/11/WZ2-S01-DMZ-TACTICS-TOUT.jpg"
     },
     "Gravity":"10",
     "Tmp": "-138°",
-    "Tipo": "Planet",
-    "Descripition":"Saturno possui 9 vezes o tamanho do planeta Terra e é formado principalmente por gases. Dispõe de 7 conjuntos de anéis circundantes e 82 luas, como Titã, a maior e mais conhecida. Saturno é o sexto planeta a partir do Sol e é o segundo maior planeta do Sistema Solar, ficando atrás apenas de Júpiter."
+    "Tipo": "Battle Royal",
+    "Descripition":"Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision.[1] Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare (2019), mas não requer compra. Warzone permite um combate em um modo multijogador on-line entre 150 jogadores na cidade fictícia de Verdansk, que é vagamente baseada na cidade de Donetsk, no leste da Ucrânia.[2] Ele apresenta uma progressão de plataforma-cruzada entre os dois jogos."
   },
   {
     "id": "6",
-    "title": "Uranus",
-    "subTitle": "Blue Planet",
+    "title": "Fall Guys",
+    "subTitle": "Valor: Gratuito",
     "Distance": "2.721 Mi (KM)",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/54/uranus-6153865_960_720.png"
+      "uri": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-187aa50ffaa014885d6702a0b632f848"
     },
     "Gravity":"9",
     "Tmp": "-197°",
-    "Tipo": "Planet",
-    "Descripition":"Planeta Urano é um dos maiores do Sistema Solar, sendo o sétimo a partir do Sol. Dispõe de um sistema de anéis e é formado principalmente por gases e líquidos. O planeta Urano é o terceiro maior do Sistema Solar e está posicionado na sétima órbita a partir do Sol."
+    "Tipo": "Corrida",
+    "Descripition":"Em Fall Guys, até sessenta jogadores controlam criaturas semelhantes a jujubas e competem entre si em uma série de desafios, como em pistas de obstáculos. Muitos percursos diferentes foram adicionados desde o lançamento do jogo; a maioria desses percursos são pistas de obstáculos que envolvem jogadores correndo para conseguirem chegar na linha de chegada o mais rápido possível, com o objetivo de não serem eliminados — há um número limitado de jogadores que podem se qualificar, e com cada rodada conforme o jogo avança, o número diminui, eventualmente chegando a um, onde o jogador é coroado o vencedor."
   },
   {
     "id": "7",
-    "title": "Neptune",
-    "subTitle": "Ice Giant",
+    "title": "Fortnite",
+    "subTitle": "Valor: Gratuito",
     "Distance": "4.354 Mi (KM)",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/55/neptune-6153867_960_720.png"
+      "uri": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/09/fortnite-1-scaled.jpg"
     },
     "Gravity":"11",
     "Tmp": "-245°",
-    "Tipo": "Planet",
-    "Descripition":"Netuno é um planeta gasoso pertencente ao Sistema Solar classificado como um gigante de gelo. Trata-se do oitavo planeta a partir do Sol, sendo, portanto, o planeta mais distante do Sol. Em decorrência disso, o tempo que Netuno leva para dar uma volta completa em torno dessa estrela é muito grande: 165 anos."
+    "Tipo": "Bttle Royal",
+    "Descripition":"Fortnite Battle Royale é um modo de jogo do gênero battle royale para até 100 jogadores, jogando sozinho ou em grupos de dois a quatro amigos."
   },
   {
     "id": "8",
