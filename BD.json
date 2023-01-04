@@ -11,119 +11,92 @@
   },
   {
     "id": "1",
-    "title": "Venus",
-    "subTitle": "Jewel of Heaven",
-    "Distance": "41 Mi (KM)",
+    "title": "Warframe",
+    "subTitle": "Valor: Gratuito",
     "image": {
-      "uri": "https://www.pngmart.com/files/22/Venus-PNG-Clipart.png"
+      "uri": "https://cdn1.epicgames.com/offer/244aaaa06bfa49d088205b13b9d2d115/EGS_Warframe_DigitalExtremes_S1_2560x1440-73faa8ab5ce2d911b7d3d00ef247fe8f"
     },
-    "Gravity":"9",
-    "Tmp": "462°",
-    "Tipo": "Planet",
-    "Descripition":"Vênus tem 12.104 km de diâmetro, ou seja, seu raio equivale a 6.052 km. A sua superfície é coberta de lava e composta principalmente de dióxido de carbono e ácido sulfúrico, os quais formam nuvens densas responsáveis pelo fenômeno de efeito estufa."
+    "Tipo": "RGP",
+    "Descripition":"Em Warframe , os jogadores controlam os membros do Tenno, uma raça de antigos guerreiros que despertaram de séculos de animação suspensa no futuro da Terra para se encontrarem em guerra no sistema planetário com diferentes facções. O Tenno usa seus Warframes alimentados junto com uma variedade de armas e habilidades para completar missões."
   },
   {
     "id": "2",
-    "title": "Earth",
-    "subTitle": "Water Planet",
-    "Distance": "0 (KM)",
+    "title": "Mount & Blade 2: Bannerlord",
+    "subTitle": "Valor: R$ 87,00",  
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2016/04/02/21/01/earth-1303628_960_720.png"
+      "uri": "https://sm.ign.com/t/ign_pt/screenshot/default/ezgifcom-gif-maker_cye4.1280.jpg"
     },
-    "Gravity":"10",
-    "Tmp": "15°",
-    "Tipo": "Planet",
-    "Descripition":"O Planeta Terra é conhecido como Planeta Azul, por ter 70% da sua superfície coberta de água. O Planeta Terra é um dos planetas que fazem parte do Sistema Solar e é o terceiro planeta mais próximo do Sol. A sua formação ocorreu há bilhões de anos, assim como a existência de vida aqui ."
+    "Tipo": "RPG",
+    "Descripition":"O jogo é definido 200 anos antes do Mount & Blade: Warband, ocorrendo durante o declínio do Império Calradiano e a formação dos Reinos que aparecem nos jogos anteriores. O Império Calradiano e sua queda são análogos à queda do Império Romano e à formação dos reinos primitivos do Oriente Médio, do Norte Africano e da Europa. As armaduras, as armas e a arquitetura se inspiraram nas armaduras, armas e arquitetura do período de 600 a 1100 D.C. Além disso, existem vários vassalos diferentes que servem o Reino."
   },
   {
     "id": "3",
-    "title": "Mars",
-    "subTitle": "Red Planet",
-    "Distance": "78 Mi (KM)",
+    "title": "Minecraft",
+    "subTitle": "Valor: R$ 55,00 ",
     "image": {
-      "uri": "https://www.freepnglogos.com/uploads/mars-png/mars-transparent-png-stickpng-0.png"
+      "uri": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/m/minecraft-switch/hero"
     },
-    "Gravity":"4",
-    "Tmp": "-51°",
-    "Tipo": "Planet",
-    "Descripition":"𝐌𝐚𝐫𝐭𝐞 𝐞́ 𝐨 𝐪𝐮𝐚𝐫𝐭𝐨 𝐩𝐥𝐚𝐧𝐞𝐭𝐚 𝐚 𝐩𝐚𝐫𝐭𝐢𝐫 𝐝𝐨 𝐒𝐨𝐥, 𝐨 𝐬𝐞𝐠𝐮𝐧𝐝𝐨 𝐦𝐞𝐧𝐨𝐫 𝐝𝐨 𝐒𝐢𝐬𝐭𝐞𝐦𝐚 𝐒𝐨𝐥𝐚𝐫. 𝐁𝐚𝐭𝐢𝐳𝐚𝐝𝐨 𝐞𝐦 𝐡𝐨𝐦𝐞𝐧𝐚𝐠𝐞𝐦 𝐚 𝐝𝐢𝐯𝐢𝐧𝐝𝐚𝐝𝐞 𝐫𝐨𝐦𝐚𝐧𝐚 𝐝𝐚 𝐠𝐮𝐞𝐫𝐫𝐚, 𝐦𝐮𝐢𝐭𝐚𝐬 𝐯𝐞𝐳𝐞𝐬 𝐞́ 𝐝𝐞𝐬𝐜𝐫𝐢𝐭𝐨 𝐜𝐨𝐦𝐨 𝐨 𝐏𝐥𝐚𝐧𝐞𝐭𝐚 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐨, 𝐩𝐨𝐫𝐪𝐮𝐞 𝐨 𝐨́𝐱𝐢𝐝𝐨 𝐝𝐞 𝐟𝐞𝐫𝐫𝐨 𝐩𝐫𝐞𝐝𝐨𝐦𝐢𝐧𝐚𝐧𝐭𝐞 𝐞𝐦 𝐬𝐮𝐚 𝐬𝐮𝐩𝐞𝐫𝐟𝐢́𝐜𝐢𝐞 𝐥𝐡𝐞 𝐝𝐚́ 𝐮𝐦𝐚 𝐚𝐩𝐚𝐫𝐞̂𝐧𝐜𝐢𝐚 𝐚𝐯𝐞𝐫𝐦𝐞𝐥𝐡𝐚𝐝𝐚."
+    "Tipo": "Ação e Aventura",
+    "Descripition":"Em Minecraft, os jogadores exploram um mundo aberto tridimensional intencionalmente em blocos, pixelizado e gerado proceduralmente, podendo descobrir e extrair matérias-primas, ferramentas artesanais, construir estruturas ou terraplenagens e, dependendo do modo de jogo, podem combater inimigos controlados por computador, bem como cooperar ou competir contra outros jogadores no mesmo mundo. "
   },
   {
     "id": "4",
-    "title": "Jupiter",
-    "subTitle": "jewel of the Solar System",
-    "Distance": "628 Mi (KM)",
+    "title": "Cyberpunk 2077",
+    "subTitle": "Valor: R$ 184,99",
     "image": {
-      "uri": "https://www.pngall.com/wp-content/uploads/7/Jupiter-PNG-Picture.png"
+      "uri": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
     },
-    "Gravity":"25",
-    "Tmp": "-110°",
-    "Tipo": "Planet",
-    "Descripition":"Júpiter é considerado o maior planeta do Sistema Solar, sendo rodeado de vários satélites naturais. É o quinto na ordem dos planetas tendo-se o Sol como a referência. Júpiter é o maior planeta do Sistema Solar, estando situado entre Marte e Saturno."
+    "Tipo": "Ação e Aventura",
+    "Descripition":"Cyberpunk 2077 é um jogo eletrônico de RPG de ação desenvolvido pela CD Projekt Red e publicado pela CD Projekt. A história do jogo é ambientada em Night City, um mundo aberto situado no universo fictício de Cyberpunk. Ele é jogado a partir de uma perspectiva em primeira pessoa, com os jogadores controlando um mercenário personalizável conhecido como V, que pode adquirir habilidades de hacking e maquinários, um arsenal de armas de longo alcance e opções de combate no estilo corpo a corpo. A trama segue a luta de V enquanto tenta lidar com um misterioso implante cibernético que ameaça substituir seu corpo com a personalidade e as memórias de uma celebridade falecida perceptível apenas por V; os dois devem trabalhar juntos se houver alguma esperança de separar os dois e salvar a vida de V."
   },
   {
     "id": "5",
-    "title": "Saturn",
-    "subTitle": "Red Planet",
-    "Distance": "1.279 Mi (KM)",
+    "title": "Call of Duty: Warzone",
+    "subTitle": "Valor: Gratuito",
     "image": {
-      "uri": "https://github.com/Jpedro23/photo/blob/main/Planeta-saturno-Png-1024x1024_1_-removebg-preview.png?raw=true"
+      "uri": "https://www.callofduty.com/content/dam/atvi/infinityward/iw-touchui/news/feature/2022/11/WZ2-S01-DMZ-TACTICS-TOUT.jpg"
     },
-    "Gravity":"10",
-    "Tmp": "-138°",
-    "Tipo": "Planet",
-    "Descripition":"Saturno possui 9 vezes o tamanho do planeta Terra e é formado principalmente por gases. Dispõe de 7 conjuntos de anéis circundantes e 82 luas, como Titã, a maior e mais conhecida. Saturno é o sexto planeta a partir do Sol e é o segundo maior planeta do Sistema Solar, ficando atrás apenas de Júpiter."
+    "Tipo": "Battle Royal",
+    "Descripition":"Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision.[1] Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare (2019), mas não requer compra. Warzone permite um combate em um modo multijogador on-line entre 150 jogadores na cidade fictícia de Verdansk, que é vagamente baseada na cidade de Donetsk, no leste da Ucrânia.[2] Ele apresenta uma progressão de plataforma-cruzada entre os dois jogos."
   },
   {
     "id": "6",
-    "title": "Uranus",
-    "subTitle": "Blue Planet",
-    "Distance": "2.721 Mi (KM)",
+    "title": "'Fall Guys",
+    "subTitle": "Valor: Gratuito",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/54/uranus-6153865_960_720.png"
+      "uri": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-187aa50ffaa014885d6702a0b632f848"
     },
-    "Gravity":"9",
-    "Tmp": "-197°",
-    "Tipo": "Planet",
-    "Descripition":"Planeta Urano é um dos maiores do Sistema Solar, sendo o sétimo a partir do Sol. Dispõe de um sistema de anéis e é formado principalmente por gases e líquidos. O planeta Urano é o terceiro maior do Sistema Solar e está posicionado na sétima órbita a partir do Sol."
+    "Tipo": "Corrida",
+    "Descripition":"Em Fall Guys, até sessenta jogadores controlam criaturas semelhantes a jujubas e competem entre si em uma série de desafios, como em pistas de obstáculos. Muitos percursos diferentes foram adicionados desde o lançamento do jogo; a maioria desses percursos são pistas de obstáculos que envolvem jogadores correndo para conseguirem chegar na linha de chegada o mais rápido possível, com o objetivo de não serem eliminados — há um número limitado de jogadores que podem se qualificar, e com cada rodada conforme o jogo avança, o número diminui, eventualmente chegando a um, onde o jogador é coroado o vencedor."
   },
   {
     "id": "7",
-    "title": "Neptune",
-    "subTitle": "Ice Giant",
-    "Distance": "4.354 Mi (KM)",
+    "title": "Fortnite",
+    "subTitle": "Valor: Gratuito",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/55/neptune-6153867_960_720.png"
+      "uri": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/09/fortnite-1-scaled.jpg"
     },
-    "Gravity":"11",
-    "Tmp": "-245°",
-    "Tipo": "Planet",
-    "Descripition":"Netuno é um planeta gasoso pertencente ao Sistema Solar classificado como um gigante de gelo. Trata-se do oitavo planeta a partir do Sol, sendo, portanto, o planeta mais distante do Sol. Em decorrência disso, o tempo que Netuno leva para dar uma volta completa em torno dessa estrela é muito grande: 165 anos."
+    "Tipo": "Bttle Royal",
+    "Descripition":"Fortnite Battle Royale é um modo de jogo do gênero battle royale para até 100 jogadores, jogando sozinho ou em grupos de dois a quatro amigos."
   },
   {
     "id": "8",
-    "title": "Moon",
-    "subTitle": "Natural satellite",
-    "Distance": "384 Mil (KM)",
+    "title": "DOOM ETERNAL,
+    "subTitle": "Valor: R$ 200,00 ",
     "image": {
-      "uri": "https://www.pngall.com/wp-content/uploads/2016/03/Moon-Vector-PNG.png"
+      "uri": "https://m.media-amazon.com/images/I/91qm95y+rZL.jpg"
     },
-    "Gravity":"2",
-    "Tmp": "variable temperature",
-    "Tipo": "Satellite",
-    "Descripition":"A Lua é o único satélite natural da Terra. Está a 384.400 km do planeta, e a cada ano se afasta 3,78 centímetros. Apresenta uma exosfera fina e frágil, e sua estrutura é composta por crosta, manto e núcleo. Sua superfície está repleta de crateras de impacto, fragmentos de rocha e poeira."
+    "Tipo": "Ação Frenetica",
+    "Descripition":"Os jogadores mais uma vez assumem o papel de Doom Slayer, um antigo guerreiro que luta contra as forças demoníacas do inferno a partir de uma perspectiva em primeira pessoa. O jogo continua a ênfase do seu predecessor no combate push-forward, encorajando o jogador a atacar inimigos agressivamente para adquirir saúde e munição."
   },
   {
     "id": "9",
-    "title": "Sun",
-    "subTitle": "Dwarf Star",
-    "Distance": "149 Mi (KM)",
+    "title": "Red Dead Redemption 2",
+    "subTitle": "Valor: R$ 110,00",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2018/01/26/13/04/sun-3108640_960_720.png"
+      "uri": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
     },
-    "Gravity":"274",
-    "Tmp": "5.504°",
-    "Tipo": "Star",
-    "Descripition":"O Sol é uma estrela anã amarela que os demais corpos celestes do Sistema Solar orbitam. Ele é formado por gases e não dispõe de nenhuma superfície sólida. O Sol é uma estrela localizada na Via Láctea. Trata-se da estrela mais próxima do planeta Terra e a maior de todo o Sistema Solar."
+    "Tipo": "RPG",
+    "Descripition":"Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários."
   }
 ]
