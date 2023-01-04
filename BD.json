@@ -1,9 +1,99 @@
-[
-  {
-  "id":"0",
-  "title":"Dark Souls_0",
+{
+  "id":"1",
+  "title":"Warframe_1",
+  "Descripition":"Em Warframe , os jogadores controlam os membros do Tenno, uma raça de antigos guerreiros que despertaram de séculos de animação suspensa no futuro da Terra para se encontrarem em guerra no sistema planetário com diferentes facções. O Tenno usa seus Warframes alimentados junto com uma variedade de armas e habilidades para completar missões.",
+  "Preço":"Valor: Gratuito",
   "Image":{
-    "uri": "https://image.api.playstation.com/cdn/UP0700/CUSA08692_00/JxilRmpXkS3CCXUnr0gZTBOlqso3plaw.png"
-    }
-   }
-]
+    "uri": "https://cdn1.epicgames.com/offer/244aaaa06bfa49d088205b13b9d2d115/EGS_Warframe_DigitalExtremes_S1_2560x1440-73faa8ab5ce2d911b7d3d00ef247fe8f",
+    },
+    },
+    {
+  "id":"2",
+  "title":"Mount & Blade 2: Bannerlord_2",
+  "Descripition":"O jogo é definido 200 anos antes do Mount & Blade: Warband, ocorrendo durante o declínio do Império Calradiano e a formação dos Reinos que aparecem nos jogos anteriores. O Império Calradiano e sua queda são análogos à queda do Império Romano e à formação dos reinos primitivos do Oriente Médio, do Norte Africano e da Europa. As armaduras, as armas e a arquitetura se inspiraram nas armaduras, armas e arquitetura do período de 600 a 1100 D.C. Além disso, existem vários vassalos diferentes que servem o Reino.",
+  "Preço":"Valor: R$ 87,00",
+  "Image":{
+    "uri": "https://sm.ign.com/t/ign_pt/screenshot/default/ezgifcom-gif-maker_cye4.1280.jpg",
+    },
+    },
+    {
+  "id":"3",
+  "title":"Minecraft_3",
+  "Descripition":"Em Minecraft, os jogadores exploram um mundo aberto tridimensional intencionalmente em blocos, pixelizado e gerado proceduralmente, podendo descobrir e extrair matérias-primas, ferramentas artesanais, construir estruturas ou terraplenagens e, dependendo do modo de jogo, podem combater inimigos controlados por computador, bem como cooperar ou competir contra outros jogadores no mesmo mundo.",
+  "Preço":"Valor: R$ 55,00",
+  "Image":{
+    "uri": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/m/minecraft-switch/hero",
+    },
+    },
+    {
+  "id":"4",
+  "title":"Cyberpunk 2077_4",
+  "Descripition":"Cyberpunk 2077 é um jogo eletrônico de RPG de ação desenvolvido pela CD Projekt Red e publicado pela CD Projekt. A história do jogo é ambientada em Night City, um mundo aberto situado no universo fictício de Cyberpunk. Ele é jogado a partir de uma perspectiva em primeira pessoa, com os jogadores controlando um mercenário personalizável conhecido como V, que pode adquirir habilidades de hacking e maquinários, um arsenal de armas de longo alcance e opções de combate no estilo corpo a corpo. A trama segue a luta de V enquanto tenta lidar com um misterioso implante cibernético que ameaça substituir seu corpo com a personalidade e as memórias de uma celebridade falecida perceptível apenas por V; os dois devem trabalhar juntos se houver alguma esperança de separar os dois e salvar a vida de V.",
+  "Preço":"Valor: R$ 184,99",
+  "Image":{
+    "uri": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+    },
+    },
+    {
+  "id":"5",
+  "title":"Call of Duty: Warzone_5",
+  "Descripition":"Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision.[1] Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare (2019), mas não requer compra. Warzone permite um combate em um modo multijogador on-line entre 150 jogadores na cidade fictícia de Verdansk, que é vagamente baseada na cidade de Donetsk, no leste da Ucrânia.[2] Ele apresenta uma progressão de plataforma-cruzada entre os dois jogos.",
+  "Preço":"Valor: Gratuito ",
+  "Image":{
+    "uri": "https://www.callofduty.com/content/dam/atvi/infinityward/iw-touchui/news/feature/2022/11/WZ2-S01-DMZ-TACTICS-TOUT.jpg",
+    },
+    },
+    {
+  "id":"6",
+  "title":"Fall Guys_6",
+  "Descripition":"Em Fall Guys, até sessenta jogadores controlam criaturas semelhantes a jujubas e competem entre si em uma série de desafios, como em pistas de obstáculos. Muitos percursos diferentes foram adicionados desde o lançamento do jogo; a maioria desses percursos são pistas de obstáculos que envolvem jogadores correndo para conseguirem chegar na linha de chegada o mais rápido possível, com o objetivo de não serem eliminados — há um número limitado de jogadores que podem se qualificar, e com cada rodada conforme o jogo avança, o número diminui, eventualmente chegando a um, onde o jogador é coroado o vencedor.",
+  "Preço":"Valor: Gratuito ",
+   "Image":{
+    "uri": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-187aa50ffaa014885d6702a0b632f848",
+    },
+    },
+    {
+  "id":"7",
+  "title":"Fortnite_7",
+  "Descripition":"Fortnite Battle Royale é um modo de jogo do gênero battle royale para até 100 jogadores, jogando sozinho ou em grupos de dois a quatro amigos.",
+  "Preço":"Valor: Gratuito",
+   "Image":{
+    "uri": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/09/fortnite-1-scaled.jpg",
+    },
+    },
+    {
+  "id":"8",
+  "title":"DOOM ETERNAL_8",
+  "Descripition":"Os jogadores mais uma vez assumem o papel de Doom Slayer, um antigo guerreiro que luta contra as forças demoníacas do inferno a partir de uma perspectiva em primeira pessoa. O jogo continua a ênfase do seu predecessor no combate push-forward, encorajando o jogador a atacar inimigos agressivamente para adquirir saúde e munição.",
+  "Preço":"Valor: R$ 200,00 ",
+  "Image":{
+    "uri": "https://m.media-amazon.com/images/I/91qm95y+rZL.jpg",
+    },
+    },
+    {
+  "id":"9",
+  "title":"Red Dead Redemption 2_9",
+  "Descripition":"Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários.",
+  "Preço":"Valor: R$ 110,00 ",
+  "Image":{
+    "uri": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    },
+    },
+    {
+  "id":"10",
+  "title":"Far Cry 5_10",
+  "Descripition":"Em Far Cry 5 o jogador assume o papel de um delegado de xerife que foi enviado ao condado fictício de Hope County, em Montana, para prender Joseph Seed (chamado de O Pai por seus seguidores, os Edenetes). Seed é um pregador radical que acredita que foi escolhido por Deus para proteger o povo de Hope County de um colapso inevitável. Ele é o criador e líder da seita cristã Projeto do Portão do Éden, um culto apocalíptico religioso e militar.",
+  "Preço":"Valor: R$ 105,00",
+  "Image":{
+    "uri": "https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png",
+    },
+    },
+    {
+  "id":"11",
+  "title":"Sekiro: Shadows Die Twice_11",
+  "Descripition":"A jogabilidade é focada em furtividade, exploração e combate, com ênfase especial em batalhas contra chefes. Embora a maior parte do jogo ocorra em áreas fictícias, algumas áreas são fortemente inspiradas em edifícios e locais do mundo real no Japão. O jogo também faz fortes referências à mitologia e filosofia budista. Enquanto criava o jogo, o diretor Hidetaka Miyazaki queria criar uma nova propriedade intelectual (IP) que marcasse um ponto de partida da série de jogos Souls, também feita pela FromSoftware, e buscou inspiração em séries como Tenchu.",
+  "Preço":"Valor: R$ 165,00",
+  "Image":{
+    "uri": "https://upload.wikimedia.org/wikipedia/pt/7/7b/Sekiro_Shadows_Die_Twice_capa.png",
+    },
+    },
