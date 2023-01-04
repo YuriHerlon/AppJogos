@@ -27,29 +27,29 @@
   },
   {
     "id": "2",
-    "title": "Earth",
-    "subTitle": "Water Planet",
+    "title": "Mount & Blade 2: Bannerlord",
+    "subTitle": "Valor: R$ 87,00",
     "Distance": "0 (KM)",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2016/04/02/21/01/earth-1303628_960_720.png"
+      "uri": "https://sm.ign.com/t/ign_pt/screenshot/default/ezgifcom-gif-maker_cye4.1280.jpg"
     },
     "Gravity":"10",
     "Tmp": "15°",
     "Tipo": "Planet",
-    "Descripition":"O Planeta Terra é conhecido como Planeta Azul, por ter 70% da sua superfície coberta de água. O Planeta Terra é um dos planetas que fazem parte do Sistema Solar e é o terceiro planeta mais próximo do Sol. A sua formação ocorreu há bilhões de anos, assim como a existência de vida aqui ."
+    "Descripition":"O jogo é definido 200 anos antes do Mount & Blade: Warband, ocorrendo durante o declínio do Império Calradiano e a formação dos Reinos que aparecem nos jogos anteriores. O Império Calradiano e sua queda são análogos à queda do Império Romano e à formação dos reinos primitivos do Oriente Médio, do Norte Africano e da Europa. As armaduras, as armas e a arquitetura se inspiraram nas armaduras, armas e arquitetura do período de 600 a 1100 D.C. Além disso, existem vários vassalos diferentes que servem o Reino."
   },
   {
     "id": "3",
-    "title": "Mars",
-    "subTitle": "Red Planet",
+    "title": "Minecraft",
+    "subTitle": "Valor: R$ 55,00 ",
     "Distance": "78 Mi (KM)",
     "image": {
-      "uri": "https://www.freepnglogos.com/uploads/mars-png/mars-transparent-png-stickpng-0.png"
+      "uri": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/m/minecraft-switch/hero"
     },
     "Gravity":"4",
     "Tmp": "-51°",
-    "Tipo": "Planet",
-    "Descripition":"𝐌𝐚𝐫𝐭𝐞 𝐞́ 𝐨 𝐪𝐮𝐚𝐫𝐭𝐨 𝐩𝐥𝐚𝐧𝐞𝐭𝐚 𝐚 𝐩𝐚𝐫𝐭𝐢𝐫 𝐝𝐨 𝐒𝐨𝐥, 𝐨 𝐬𝐞𝐠𝐮𝐧𝐝𝐨 𝐦𝐞𝐧𝐨𝐫 𝐝𝐨 𝐒𝐢𝐬𝐭𝐞𝐦𝐚 𝐒𝐨𝐥𝐚𝐫. 𝐁𝐚𝐭𝐢𝐳𝐚𝐝𝐨 𝐞𝐦 𝐡𝐨𝐦𝐞𝐧𝐚𝐠𝐞𝐦 𝐚 𝐝𝐢𝐯𝐢𝐧𝐝𝐚𝐝𝐞 𝐫𝐨𝐦𝐚𝐧𝐚 𝐝𝐚 𝐠𝐮𝐞𝐫𝐫𝐚, 𝐦𝐮𝐢𝐭𝐚𝐬 𝐯𝐞𝐳𝐞𝐬 𝐞́ 𝐝𝐞𝐬𝐜𝐫𝐢𝐭𝐨 𝐜𝐨𝐦𝐨 𝐨 𝐏𝐥𝐚𝐧𝐞𝐭𝐚 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐨, 𝐩𝐨𝐫𝐪𝐮𝐞 𝐨 𝐨́𝐱𝐢𝐝𝐨 𝐝𝐞 𝐟𝐞𝐫𝐫𝐨 𝐩𝐫𝐞𝐝𝐨𝐦𝐢𝐧𝐚𝐧𝐭𝐞 𝐞𝐦 𝐬𝐮𝐚 𝐬𝐮𝐩𝐞𝐫𝐟𝐢́𝐜𝐢𝐞 𝐥𝐡𝐞 𝐝𝐚́ 𝐮𝐦𝐚 𝐚𝐩𝐚𝐫𝐞̂𝐧𝐜𝐢𝐚 𝐚𝐯𝐞𝐫𝐦𝐞𝐥𝐡𝐚𝐝𝐚."
+    "Tipo": "Sobrevivência",
+    "Descripition":"Em Minecraft, os jogadores exploram um mundo aberto tridimensional intencionalmente em blocos, pixelizado e gerado proceduralmente, podendo descobrir e extrair matérias-primas, ferramentas artesanais, construir estruturas ou terraplenagens e, dependendo do modo de jogo, podem combater inimigos controlados por computador, bem como cooperar ou competir contra outros jogadores no mesmo mundo. "
   },
   {
     "id": "4",
@@ -129,4 +129,4 @@
     "Tipo": "Star",
     "Descripition":"O Sol é uma estrela anã amarela que os demais corpos celestes do Sistema Solar orbitam. Ele é formado por gases e não dispõe de nenhuma superfície sólida. O Sol é uma estrela localizada na Via Láctea. Trata-se da estrela mais próxima do planeta Terra e a maior de todo o Sistema Solar."
   }
-]
+] 
