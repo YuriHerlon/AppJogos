@@ -105,28 +105,28 @@
   },
   {
     "id": "8",
-    "title": "Moon",
-    "subTitle": "Natural satellite",
+    "title": "DOOM ETERNAL",
+    "subTitle": "Valor: R$ 200,00",
     "Distance": "384 Mil (KM)",
     "image": {
-      "uri": "https://www.pngall.com/wp-content/uploads/2016/03/Moon-Vector-PNG.png"
+      "uri": "https://m.media-amazon.com/images/I/91qm95y+rZL.jpg"
     },
     "Gravity":"2",
     "Tmp": "variable temperature",
-    "Tipo": "Satellite",
-    "Descripition":"A Lua é o único satélite natural da Terra. Está a 384.400 km do planeta, e a cada ano se afasta 3,78 centímetros. Apresenta uma exosfera fina e frágil, e sua estrutura é composta por crosta, manto e núcleo. Sua superfície está repleta de crateras de impacto, fragmentos de rocha e poeira."
+    "Tipo": "Ação Frenetica",
+    "Descripition":"Os jogadores mais uma vez assumem o papel de Doom Slayer, um antigo guerreiro que luta contra as forças demoníacas do inferno a partir de uma perspectiva em primeira pessoa. O jogo continua a ênfase do seu predecessor no combate push-forward, encorajando o jogador a atacar inimigos agressivamente para adquirir saúde e munição."
   },
   {
     "id": "9",
-    "title": "Sun",
-    "subTitle": "Dwarf Star",
+    "title": "Red Dead Redemption 2",
+    "subTitle": "Valor: R$ 110,00",
     "Distance": "149 Mi (KM)",
     "image": {
-      "uri": "https://cdn.pixabay.com/photo/2018/01/26/13/04/sun-3108640_960_720.png"
+      "uri": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
     },
     "Gravity":"274",
     "Tmp": "5.504°",
     "Tipo": "Star",
-    "Descripition":"O Sol é uma estrela anã amarela que os demais corpos celestes do Sistema Solar orbitam. Ele é formado por gases e não dispõe de nenhuma superfície sólida. O Sol é uma estrela localizada na Via Láctea. Trata-se da estrela mais próxima do planeta Terra e a maior de todo o Sistema Solar."
+    "Descripition":"Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários."
   }
 ] 
