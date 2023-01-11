@@ -3,12 +3,9 @@
     "id": "0",
     "title": "Dark Souls",
     "subTitle": "Valor: R$ 105,50",
-    "Distance": "91 Mi (Km)",
     "image": {
       "uri": "https://image.api.playstation.com/cdn/UP0700/CUSA08692_00/JxilRmpXkS3CCXUnr0gZTBOlqso3plaw.png"
     },
-    "Graviti":"4",
-    "Tmp":"164°",
     "Tipo": "RPG",
     "Descripition":"Dark Souls é uma série de RPGs de ação criados por Hidetaka Miyazaki da FromSoftware e publicados pela Bandai Namco Entertainment . A série começou com o lançamento de Dark Souls (2011) e teve duas sequências, Dark Souls II (2014) e Dark Souls III (2016). Dark Souls tem recebido aclamação da crítica, sendo o primeiro título frequentemente citado como um dos maiores em videogames , com a série como um todo sendo tanto elogiada quanto criticada por seu alto nível de dificuldade ."
   },
@@ -42,12 +39,9 @@
     "id": "3",
     "title": "Minecraft",
     "subTitle": "Valor: R$ 55,00 ",
-    "Distance": "78 Mi (KM)",
     "image": {
       "uri": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/m/minecraft-switch/hero"
     },
-    "Gravity":"4",
-    "Tmp": "-51°",
     "Tipo": "Sobrevivência",
     "Descripition":"Em Minecraft, os jogadores exploram um mundo aberto tridimensional intencionalmente em blocos, pixelizado e gerado proceduralmente, podendo descobrir e extrair matérias-primas, ferramentas artesanais, construir estruturas ou terraplenagens e, dependendo do modo de jogo, podem combater inimigos controlados por computador, bem como cooperar ou competir contra outros jogadores no mesmo mundo. "
   },
@@ -55,12 +49,9 @@
     "id": "4",
     "title": "Cyberpunk 2077",
     "subTitle": "Valor: R$ 184,99",
-    "Distance": "628 Mi (KM)",
     "image": {
       "uri": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
     },
-    "Gravity":"25",
-    "Tmp": "-110°",
     "Tipo": "Ação e Aventura",
     "Descripition":"Júpiter é considerado o maior planeta do Sistema Solar, sendo rodeado de vários satélites naturais. É o quinto na ordem dos planetas tendo-se o Sol como a referência. Júpiter é o maior planeta do Sistema Solar, estando situado entre Marte e Saturno."
   },
@@ -68,12 +59,9 @@
     "id": "5",
     "title": "Call of Duty: Warzone",
     "subTitle": "Valor: Gratuito",
-    "Distance": "1.279 Mi (KM)",
     "image": {
       "uri": "https://www.callofduty.com/content/dam/atvi/infinityward/iw-touchui/news/feature/2022/11/WZ2-S01-DMZ-TACTICS-TOUT.jpg"
     },
-    "Gravity":"10",
-    "Tmp": "-138°",
     "Tipo": "Battle Royal",
     "Descripition":"Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision.[1] Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare (2019), mas não requer compra. Warzone permite um combate em um modo multijogador on-line entre 150 jogadores na cidade fictícia de Verdansk, que é vagamente baseada na cidade de Donetsk, no leste da Ucrânia.[2] Ele apresenta uma progressão de plataforma-cruzada entre os dois jogos."
   },
@@ -81,12 +69,9 @@
     "id": "6",
     "title": "Fall Guys",
     "subTitle": "Valor: Gratuito",
-    "Distance": "2.721 Mi (KM)",
     "image": {
       "uri": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-187aa50ffaa014885d6702a0b632f848"
     },
-    "Gravity":"9",
-    "Tmp": "-197°",
     "Tipo": "Corrida",
     "Descripition":"Em Fall Guys, até sessenta jogadores controlam criaturas semelhantes a jujubas e competem entre si em uma série de desafios, como em pistas de obstáculos. Muitos percursos diferentes foram adicionados desde o lançamento do jogo; a maioria desses percursos são pistas de obstáculos que envolvem jogadores correndo para conseguirem chegar na linha de chegada o mais rápido possível, com o objetivo de não serem eliminados — há um número limitado de jogadores que podem se qualificar, e com cada rodada conforme o jogo avança, o número diminui, eventualmente chegando a um, onde o jogador é coroado o vencedor."
   },
@@ -94,12 +79,9 @@
     "id": "7",
     "title": "Fortnite",
     "subTitle": "Valor: Gratuito",
-    "Distance": "4.354 Mi (KM)",
     "image": {
       "uri": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/09/fortnite-1-scaled.jpg"
     },
-    "Gravity":"11",
-    "Tmp": "-245°",
     "Tipo": "Bttle Royal",
     "Descripition":"Fortnite Battle Royale é um modo de jogo do gênero battle royale para até 100 jogadores, jogando sozinho ou em grupos de dois a quatro amigos."
   },
@@ -107,12 +89,9 @@
     "id": "8",
     "title": "DOOM ETERNAL",
     "subTitle": "Valor: R$ 200,00",
-    "Distance": "384 Mil (KM)",
     "image": {
       "uri": "https://m.media-amazon.com/images/I/91qm95y+rZL.jpg"
     },
-    "Gravity":"2",
-    "Tmp": "variable temperature",
     "Tipo": "Ação Frenetica",
     "Descripition":"Os jogadores mais uma vez assumem o papel de Doom Slayer, um antigo guerreiro que luta contra as forças demoníacas do inferno a partir de uma perspectiva em primeira pessoa. O jogo continua a ênfase do seu predecessor no combate push-forward, encorajando o jogador a atacar inimigos agressivamente para adquirir saúde e munição."
   },
@@ -120,12 +99,9 @@
     "id": "9",
     "title": "Red Dead Redemption 2",
     "subTitle": "Valor: R$ 110,00",
-    "Distance": "149 Mi (KM)",
     "image": {
       "uri": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
     },
-    "Gravity":"274",
-    "Tmp": "5.504°",
     "Tipo": "Mundo Aberto",
     "Descripition":"Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia. A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários."
   }
